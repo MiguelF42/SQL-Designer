@@ -1,0 +1,6 @@
+export default {
+    env: 'dev',
+    api: 'http://localhost:3000',
+    pushWorkflowTimeout: 300000,
+    token:'',
+}
