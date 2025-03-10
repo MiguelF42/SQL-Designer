@@ -1,4 +1,4 @@
-# PROJECT INIT
+# PROJECT SQL-Designer
 
 This Project is a Web Application that allow you to create a base for your developpment projects.
 We want to provide various features like a Workflow to design you database, a class generator based on the designed database.
